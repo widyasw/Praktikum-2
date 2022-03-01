@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-   int matA [2][2] = {4, 3, 8, 10};
+   int matA [2][2] = {4, 2, 8, 10};
    int J,K; 
    cout << "Matriks A" << endl;
    for (int i=0; i<2; i++){
