@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	int matA[2][2] = {4,2,8,10};
+	int matA[2][2] = {4,8,2,10};
 	int matB[2][2] = {-5,4,8,-12};
 	int hasil[2][2];
 	int i,j,k, jumlah = 0;
