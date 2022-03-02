@@ -15,7 +15,7 @@ int main(){
   for (int i=0; i<2; i++){
        for (int j=0; j<2; j++){
     
-           cout << matA[i][j] * 5 << " ";
+           cout << matA[i][j] * matA[i][j] * matA[i][j] * matA[i][j] * matA[i][j] << " ";
        }
        cout << endl;
    }
